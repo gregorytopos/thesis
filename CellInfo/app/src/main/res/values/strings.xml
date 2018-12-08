@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CellInfo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="archive_fragment_title">Database</string>
+    <string name="cell_id">Cell ID:</string>
+    <string name="lac">LAC:</string>
+    <string name="mccmnc">MCCMNC:</string>
+    <string name="signal">Signal:</string>
+</resources>
